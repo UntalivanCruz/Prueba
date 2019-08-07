@@ -1,3 +1,7 @@
 Nombre: Kevin Ivan Cruz
 
 Edad: 26
+
+Altura: 1.70
+
+Peso:190
